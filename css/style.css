@@ -27,6 +27,9 @@ header {
 	padding-right: 15px;
 }
 
+.navbar button {
+	background: #fff !important;
+}
 
 .nav-link {
 	color: #fff !important;
@@ -404,7 +407,7 @@ header {
 
 
 /*******************************
-	button section css
+	pricing section css
 ******************************/
 
 .pricing-area {
